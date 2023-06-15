@@ -12,6 +12,7 @@ and reporting copying/pasting as unwanted behavior.
  - Occasional typos and autocorrection
  - A quick pause when finishing sentences ( after periods, colons, and semicolons )
  - Respects spacing and line breaking
+ - A simple timer before the virtual typing starts typing so you have time to switch the focus between virtual typing and your destination
 
 ## Installation
 
